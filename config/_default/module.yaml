@@ -5,8 +5,8 @@
 ############################
 
 imports:
-  - path: github.com/HugoBlox/hugo-blox-builder/modules/blox-plugin-netlify
-  - path: github.com/HugoBlox/hugo-blox-builder/modules/blox-tailwind
+  - path: github.com/HugoBlox/kit/modules/integrations/netlify
+  - path: github.com/HugoBlox/kit/modules/blox
 
 # Install any Hugo Blox within the `hugo-blox/blox/` folder
 mounts:
@@ -23,3 +23,7 @@ mounts:
     target: layouts
   - source: assets
     target: assets
+  - source: static
+    target: static
+  - source: uploads
+    target: static/my-cv

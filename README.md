@@ -100,8 +100,18 @@ git clone https://github.com/HugoBlox/theme-academic-cv my-site
 cd my-site
 
 # 3. Run locally
-pnpm install && hugo server
+corepack pnpm install && corepack pnpm run dev
 ```
+
+### Your CV
+
+Save your PDF here:
+
+```text
+uploads/resume.pdf
+```
+
+Then refresh the local site and open `/cv/`. The PDF is served at `/my-cv/resume.pdf`. You do not need to edit the author profile for the PDF preview.
 
 For more guides, visit our documentation at **https://docs.hugoblox.com/**.
 
