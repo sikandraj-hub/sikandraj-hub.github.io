@@ -1,0 +1,21 @@
+name:
+  display: Sikandra Kurdi
+  given: Sikandra
+  family: Kurdi
+role: ''
+affiliations:
+  - name: American University in Cairo
+    url: https://www.aucegypt.edu/
+links:
+  - icon: at-symbol
+    url: mailto:sikandra.kurdi@aucegypt.edu
+    label: E-mail Me
+  - icon: brands/linkedin
+    url: https://www.linkedin.com/in/sikandra-kurdi-52420126/
+  - icon: academicons/google-scholar
+    url: https://scholar.google.com/citations?user=4spL6RwAAAAJ&hl=en
+bio: >-
+  I am a development economist and assistant professor at American University in Cairo, Public Policy and Administration Department, School of Global Affairs and Public Policy. Previously, I was a Research Fellow at the International Food Policy Research Institute. I received my PhD in Agricultural and Resource Economics from Berkeley in 2015, followed by a postdoctoral position at Paris School of Economics. I received a B.A. in Economics with high honors at Swarthmore College. My research agenda focuses on social protection, agriculture, and nutrition in the MENA region, in particular Yemen and Egypt, with a strong history of working closely with local partners to manage the complexities of research in fragile and politically sensitive contexts.
+status:
+  icon: ''
+superuser: true
